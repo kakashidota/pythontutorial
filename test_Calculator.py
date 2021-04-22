@@ -1,5 +1,5 @@
 from Calculator import Calc
-import pytest
+
 
 class TestCalc:
     def test_add(self):
